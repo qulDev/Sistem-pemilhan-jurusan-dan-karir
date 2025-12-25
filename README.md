@@ -105,7 +105,7 @@ src/
 
    ```bash
    git clone https://github.com/qulDev/Sistem-pemilhan-jurusan-dan-karir.git
-   cd perancangan-jurusan-dan-karir
+   cd Sistem-pemilhan-jurusan-dan-karir
    ```
 
 2. **Install dependencies**
